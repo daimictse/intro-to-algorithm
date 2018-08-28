@@ -1,0 +1,38 @@
+Exercises
+
+1.
+Making coffee
+  a. Pour grounded coffee into the coffee machine
+  b. Fill water
+  c. Set and start the coffee machine
+  d. Wait until the coffee machine signals a completion
+  e. Pour coffee into a mug
+  f. Add sugar and cream, and stir
+
+Washing dishes
+  a. Place a sink drain stopper to the sink
+  b. Add dish soap
+  c. Turn on water faucet
+  d. Add dishes and soak about 10 minutes
+  e. Use a sponge to wash off oil and food residues from dishes and put aside the washed dishes
+  f. Remove the sink drain stopper
+  g. Rinse dishes under slow running water until no more dish soap on the dishes
+  h. Put aside the dishes and let dry
+
+Defrosting frozen meat
+  a. Find out the weight of the frozen meat
+  b. Place meat onto a plate
+  c. Place the place in the center of the microwave oven
+  d. Press the defrost button
+  e. Wait for the prompt for what kind of food
+  d. Enter 'Meat'
+  f. Wait for the prompt for how many pounds of meat
+  g. Enter the weight
+  h. Press the start button
+  i. When the microwave oven stops, check the readiness of the meat
+  j. Repeat step d to i, if needed
+
+2. Three companies who created an algorithm that made them successful are Waze's fastest distance algorithm, instagram's sorting algorithm, and twitter's timeline algorithm.
+For each of the 3 cases, they are the most efficient algorithm for each achieves the result within the shortest amount of time.
+
+3. An efficient algorithm must obtain clear steps of instruction that would accomplish a goal within a finite amount of time.
